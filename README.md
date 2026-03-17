@@ -14,4 +14,4 @@ All work for this course can be find in my [wiki](https://github.com/rune-seregi
 * The student will be able to research, duplicate and mitigate common network security vulnerabilities.
 * The student will be able to design and deploy secure remote access solutions to include site-to-site and remote access use cases.<br>
 
- . °•★|•°∵ ∵°•|☆•° . ** . °•★|•°∵ ∵°•|☆•° . ** . °•★|•°∵ ∵°•|☆•° . * * . °•★|•°∵ ∵°•|☆•° . * * . °•★|•°∵ ∵°•|☆•° . * * . °•★|•°∵ ∵°•|☆•° . * * . °•★|•°
+ . °•★|•°∵ ∵°•|☆•° . ** . °•★|•°∵ ∵°•|☆•° . ** . °•★|•°∵ ∵°•|☆•° . * * . °•★|•°∵ ∵°•|☆•° . * * . °•★|•°∵ ∵°•|☆•° . * * . °•★|•°∵
